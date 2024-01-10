@@ -22,4 +22,6 @@ This is how you push a repo localy
 
 8. git remote add origin+ssh/html .git file.
 
-9.git push(origin master)
+9. the same as 7
+
+10.git push(origin master)
