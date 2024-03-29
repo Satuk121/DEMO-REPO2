@@ -12,16 +12,14 @@ This is how you push a repo localy
 
 3.Create a index.html file and or a README file
 
-4. git status
+4.git add
 
-5.git add
+5. git commit -m"yes"
 
-6.git init to create a .git folder
+6. open github and create a new repo
 
-7.git commit
+7.copy html link 
 
-8. git remote add origin+ssh/html .git file.
-
-9. the same as 7
+8. git remote add origin
 
 10.git push(origin master)
