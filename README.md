@@ -22,4 +22,4 @@ This is how you push a repo localy
 
 8. git remote add origin
 
-10.git push(origin master)
+9.git push(origin master)
